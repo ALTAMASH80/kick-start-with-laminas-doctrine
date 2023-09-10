@@ -5,6 +5,9 @@ vendor/
 # Local configs
 config/autoload/*.local.php
 
+# Ignore Development Config File
+config/development*.php
+
 # Binary gettext files
 *.mo
 
@@ -16,9 +19,9 @@ data/tmp/
 temp/
 
 #Doctrine 2
-data/DoctrineORMModule/Proxy/
-data/DoctrineORMModule/cache/
+data/DoctrineORMModule/*
 
-# Legacy ZF1
-demos/
-extras/documentation
+#IDE'S
+.project
+.settings*
+.buildpath
