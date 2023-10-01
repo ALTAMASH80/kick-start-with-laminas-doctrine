@@ -1,6 +1,6 @@
 {
-    "name": "laminas/laminas-mvc-skeleton",
-    "description": "Laminas MVC Skeleton Application",
+    "name": "ALTAMASH80/kick-start-with-laminas-doctrine",
+    "description": "Kick start project for Laminas MVC Application.",
     "type": "project",
     "license": "BSD-3-Clause",
     "keywords": [
