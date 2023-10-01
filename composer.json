@@ -1,6 +1,6 @@
 {
-    "name": "laminas/laminas-mvc-skeleton",
-    "description": "Laminas MVC Skeleton Application",
+    "name": "altamash80/kick-start-with-laminas-doctrine",
+    "description": "Kick start project for Laminas MVC Application.",
     "type": "project",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -23,7 +23,6 @@
         "lm-commons/lmc-user-doctrine-orm": "^3.0",
         "altamash80/laminas-mvc-bootstrap-menu": "^1.1",
         "lm-commons/lmc-rbac": "^v1.2",
-        "lm-commons/lmc-rbac-mvc": "^3.3.1",
         "laminas/laminas-cli": "^1.8",
         "laminas/laminas-mail": "^2.16"
     },
